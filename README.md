@@ -1,7 +1,7 @@
 Privacy Policy
-INNOVARE recognizes that privacy is of great importance to individuals everywhere – our customers, website visitors, product users… everyone. This is why the responsible use and protection of personal and other information under our care is a 
+schm_WebDev.it recognizes that privacy is of great importance to individuals everywhere – our customers, website visitors, product users… everyone. This is why the responsible use and protection of personal and other information under our care is a 
 
-core value of INNOVARE. To learn more about our privacy practices, please review the policy below. If you have any further questions or concerns, please feel free to reach us at schm.webdev@gmail.com
+core value of schm_WebDev.it. To learn more about our privacy practices, please review the policy below. If you have any further questions or concerns, please feel free to reach us at schm.webdev@gmail.com
 
 The privacy statement was last updated on 02/10/2018.
 
